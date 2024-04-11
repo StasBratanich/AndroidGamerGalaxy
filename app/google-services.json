@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855551976999",
+    "project_id": "gamergalaxy-d1752",
+    "storage_bucket": "gamergalaxy-d1752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855551976999:android:b3218429456bdda393d002",
+        "android_client_info": {
+          "package_name": "com.example.gamergalaxy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAEwqpwqd-3lBTnvbZT6UBJ9FnCVB5G5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
