@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "Key deleted manually"
+          "current_key": "Key deleted manually due to security problem, app won't work without a key"
         }
       ],
       "services": {
