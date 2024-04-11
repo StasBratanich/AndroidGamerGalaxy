@@ -1,21 +1,14 @@
-<h1 align="center">GamerGalaxy</h1>
+<h1 align="center">AndroidGamerGalaxy</h1>
 
 ***
-<p align="center">Application walkthrough video (Hebrew)</p>
+<p align="center">Hebrew explenation video</p>
 <p align="center">https://youtu.be/-GxPW4ibe6Q</p>
 
 <p align="center">Welcome to the GamerGalaxy project!</p>
-<p align="center">This Android application is designed to enhance the gaming experience by providing detailed information on various games, facilitating connections among players, and offering personalized game recommendations.</p>
+<p align="center">This Android application is designed to enhance the gaming experience by providing detailed information on various games.</p>
 <p align="center">Developed in <strong>Android Studio</strong> using <strong>Java</strong> and integrates with <strong>Firebase</strong> and <strong>Steam API</strong> for real-time data.</p>
 
 ***
-
-## 📌 Project Status: In Progress
-
-GamerGalaxy is currently under active development and is **not yet complete**. Key features and components are in different stages of implementation:
-
-- **User Profile Management:** Building features for users to create, update, and manage their profiles within the app.
-- **Game Information Integration:** Integrating with the Steam API to fetch real-time data on games, including descriptions, ratings, and multimedia content.
 
 ## ℹ️ Overview
 
@@ -30,31 +23,31 @@ Primary functionalities include:
 
 ## 🌟 Highlights
 
-***Login Page***
+![1](https://github.com/StasBratanich/GamerGalaxy/assets/83605505/220f4ef4-24fc-4224-9053-a5ad80270e64)
 
+***Login Page***
 - Secure login with Firebase authentication
 
-![Login Page](assets/login_page_screenshot.jpg)
+![2](https://github.com/StasBratanich/GamerGalaxy/assets/83605505/77fec294-8ca8-41cc-bccc-4d5905c10c7d)
 
 ***Registration Page***
 - New users can register, providing necessary details and uploading a profile picture
 
-![Registration Page](assets/registration_page_screenshot.jpg)
+![3](https://github.com/StasBratanich/GamerGalaxy/assets/83605505/532bbf94-3473-4db9-9d4f-514b5f531691)
 
 ***Main Game Browsing Interface***
 - A user-friendly interface to browse games with options to like and view detailed information
 
-![Game Browsing](assets/game_browsing_interface_screenshot.jpg)
+![4](https://github.com/StasBratanich/GamerGalaxy/assets/83605505/1d32f555-dede-4721-a865-b3d9258b2078)
 
 ***Game Details Page***
-- Detailed view of game information, including trailers, gameplay, and user reviews
+- Detailed view of game information, including short descriptiob, trailer, release date, and metacritic score
+- 
+![4](https://github.com/StasBratanich/GamerGalaxy/assets/83605505/55bf71db-2e90-43cd-8fd5-acfabe1fdafa)
 
-![Game Details](assets/game_details_page_screenshot.jpg)
+***Firebase realtime database***
 
-***Liked Games Feature***
-- A personalized section for users to view and manage their liked games
-
-![Liked Games](assets/liked_games_page_screenshot.jpg)
+![6](https://github.com/StasBratanich/GamerGalaxy/assets/83605505/c5edb0f1-af64-48fa-aa61-bf8572e7ff48)
 
 ***
 
