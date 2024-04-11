@@ -2,7 +2,7 @@
 
 ***
 <p align="center">Application walkthrough video (Hebrew)</p>
-<p align="center">[YouTube Link](https://www.youtube.com/watch?v=link_here)</p>
+<p align="center">https://youtu.be/-GxPW4ibe6Q</p>
 
 <p align="center">Welcome to the GamerGalaxy project!</p>
 <p align="center">This Android application is designed to enhance the gaming experience by providing detailed information on various games, facilitating connections among players, and offering personalized game recommendations.</p>
