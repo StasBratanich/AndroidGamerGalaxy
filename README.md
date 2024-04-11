@@ -43,7 +43,7 @@ Primary functionalities include:
 ***Game Details Page***
 - Detailed view of game information, including short descriptiob, trailer, release date, and metacritic score
 
-![4](https://github.com/StasBratanich/GamerGalaxy/assets/83605505/55bf71db-2e90-43cd-8fd5-acfabe1fdafa)
+![5](https://github.com/StasBratanich/AndroidGamerGalaxy/assets/83605505/7da36b63-de0d-471e-81d8-33fa0231d992)
 
 ***
 
