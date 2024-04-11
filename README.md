@@ -45,10 +45,6 @@ Primary functionalities include:
 
 ![4](https://github.com/StasBratanich/GamerGalaxy/assets/83605505/55bf71db-2e90-43cd-8fd5-acfabe1fdafa)
 
-***Firebase realtime database***
-
-![6](https://github.com/StasBratanich/GamerGalaxy/assets/83605505/c5edb0f1-af64-48fa-aa61-bf8572e7ff48)
-
 ***
 
 ✉️ [bstasb@gmail.com](mailto:bstasb@gmail.com)  
